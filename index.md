@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/longitude-jyang/jiannanyan
 
 1. Example
  
-[Lagrange Top](/notes/main/LagrangeTop.md)
+[Lagrange Top](/../main/LagrangeTop.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

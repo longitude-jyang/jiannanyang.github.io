@@ -11,8 +11,9 @@ This webpage is intended to document my research and supervision notes.
 
 1. Dynamics 
 
+   - Introduction 
    - [Lagrange Top](/../main/LagrangeTop.md)
-   - 
+  
 2. Linear Vibration 
 
 3. Mathematical Methods 

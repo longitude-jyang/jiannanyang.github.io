@@ -12,7 +12,7 @@ This webpage is intended to document my research and supervision notes.
 1. Dynamics 
 
    - [Introduction](/DynamicsIntro.md)
-   - [Lagrange Top](/../main/LagrangeTop.md)
+   - [Lagrange Top](/../main/Supervision/Dynamics/LagrangeTop.md)
   
 2. Linear Vibration 
 
